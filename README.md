@@ -11,7 +11,7 @@ Listens to events from the server (opponent move, for example) and emits the cli
 Runs the initial Login.js component.
 
 #### Login.js 
-To play a 5-in-a-row game the user will enter his/her name and will click “Game ON!”, the game board will load as follows: </br>
+To play a 5-in-a-row game the user will enter his/her name and will click “Game ON!”, the game board will load as follows: 
 </br>  - If a player is already waiting a match will start.
 </br>  - If no player is waiting, the user will wait for another player.
 
